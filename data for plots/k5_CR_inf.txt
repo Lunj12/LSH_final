@@ -1,0 +1,187 @@
+k=5
+L=1
+r=1
+C = pow(2, 32) - 5
+CR = inf
+
+K of neighbor = 10
+>>>> mAP and AP score per category
+--------------------------------------------------------
+AP per category:
+_background : 0.9846791629600232
+airplane : 0.05598592500150864
+bear : nan
+bicycle : 0.2122485883087895
+bird : 0.28180685491508695
+boat : 0.05051137718421016
+bus : 0.1089934354464364
+car : 0.1847505210971417
+cat : nan
+cow : 0.05263157894736842
+dog : 0.1392369813422445
+elephant : 0.05053735705578574
+giraffe : 0.05213320899057999
+horse : nan
+motorcycle : 0.1318295739348371
+sheep : nan
+train : 0.09107381680732285
+truck : 0.0836202255010538
+zebra : 0.05258297506226638
+
+mAP = 0.168841438836977
+
+>>>> Average distance to the retrieved K nearest neighbors
+--------------------------------------------------------
+Average distance to knn = 161.61468402993356
+
+>>>> Average search time per query
+--------------------------------------------------------
+Average search time per query = 17.27304487406463
+
+
+
+
+K of neighbor = 20
+>>>> mAP and AP score per category
+--------------------------------------------------------
+AP per category:
+_background : 0.9819962306458289
+airplane : 0.05261620352020556
+bear : nan
+bicycle : 0.19231594156270934
+bird : 0.2643586017042172
+boat : 0.048728625776592885
+bus : 0.10802510818391366
+car : 0.17671042957283803
+cat : nan
+cow : 0.05263157894736842
+dog : 0.1392369813422445
+elephant : 0.04873082581181125
+giraffe : 0.04919005726708194
+horse : nan
+motorcycle : 0.1318295739348371
+sheep : nan
+train : 0.07737972720667957
+truck : 0.08758563630470856
+zebra : 0.0525364549392098
+
+mAP = 0.16425813178134976
+
+>>>> Average distance to the retrieved K nearest neighbors
+--------------------------------------------------------
+Average distance to knn = 177.22176113370514
+
+>>>> Average search time per query
+--------------------------------------------------------
+Average search time per query = 17.27304487406463
+
+
+
+
+K of neighbor = 30
+>>>> mAP and AP score per category
+--------------------------------------------------------
+AP per category:
+_background : 0.9816061764186835
+airplane : 0.05221103654656067
+bear : nan
+bicycle : 0.19159288620977588
+bird : 0.2518986331444467
+boat : 0.04838379776531842
+bus : 0.11115317656994494
+car : 0.17229635032627771
+cat : nan
+cow : 0.05263157894736842
+dog : 0.1392369813422445
+elephant : 0.04989837479965304
+giraffe : 0.04851170804054051
+horse : nan
+motorcycle : 0.1318295739348371
+sheep : nan
+train : 0.07631695247444335
+truck : 0.08593225535402171
+zebra : 0.052723228068541364
+
+mAP = 0.16308151399617715
+
+>>>> Average distance to the retrieved K nearest neighbors
+--------------------------------------------------------
+Average distance to knn = 181.43561988100763
+
+>>>> Average search time per query
+--------------------------------------------------------
+Average search time per query = 17.27304487406463
+
+
+
+
+K of neighbor = 40
+>>>> mAP and AP score per category
+--------------------------------------------------------
+AP per category:
+_background : 0.9816013922084519
+airplane : 0.05214793572482153
+bear : nan
+bicycle : 0.1914937178717727
+bird : 0.2513315885608105
+boat : 0.04837799521515046
+bus : 0.11115317656994494
+car : 0.17228770794475973
+cat : nan
+cow : 0.05263157894736842
+dog : 0.1392369813422445
+elephant : 0.04947718927737146
+giraffe : 0.048502251268959476
+horse : nan
+motorcycle : 0.1318295739348371
+sheep : nan
+train : 0.0762988198078154
+truck : 0.08593901519910749
+zebra : 0.05272064449398245
+
+mAP = 0.1630019712244932
+
+>>>> Average distance to the retrieved K nearest neighbors
+--------------------------------------------------------
+Average distance to knn = 181.5924221155446
+
+>>>> Average search time per query
+--------------------------------------------------------
+Average search time per query = 17.27304487406463
+
+
+
+
+K of neighbor = 50
+>>>> mAP and AP score per category
+--------------------------------------------------------
+AP per category:
+_background : 0.9816001262982973
+airplane : 0.05214793572482153
+bear : nan
+bicycle : 0.1914937178717727
+bird : 0.2513315885608105
+boat : 0.04837799521515046
+bus : 0.11115317656994494
+car : 0.17228770794475973
+cat : nan
+cow : 0.05263157894736842
+dog : 0.1392369813422445
+elephant : 0.04947718927737146
+giraffe : 0.04850165280302787
+horse : nan
+motorcycle : 0.1318295739348371
+sheep : nan
+train : 0.0762988198078154
+truck : 0.08593901519910749
+zebra : 0.05272064449398245
+
+mAP = 0.16300184693275413
+
+>>>> Average distance to the retrieved K nearest neighbors
+--------------------------------------------------------
+Average distance to knn = 181.59318293026655
+
+>>>> Average search time per query
+--------------------------------------------------------
+Average search time per query = 17.27304487406463
